@@ -18,7 +18,19 @@
 *** Checkout Pedestal's stream response.
     http://pedestal.io/reference/streaming
 
+*** We need to think of a way to share state between components.
+    Some state like `KTable`
 
+*** How can we rewind the offset of Kafka Component ???
+*** Changes to Workflow
+**** Map
+**** Filter
+**** Reduce
+**** Agg
+**** Join
+** Ideas
+*** Attach processing time to the value moving in the pipeline.
+    So we can measure how much time it takes for each componenet to process the value
 ** TODOs
 *** TODO Check for `start-fn` return value spec.
 *** TODO Handle the missing component name in `:workflow`
