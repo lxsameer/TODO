@@ -1,0 +1,28 @@
+* To Read
+** Books
+** Articles
+*** DONE JVM ThreadPool
+    https://www.ibm.com/developerworks/library/j-jtp0730/index.html
+** Online Course
+*** Machine Learning
+**** http://course.fast.ai/
+
+* To Watch
+** Anime
+*** Akame ga kill
+*** kimi no na wa
+*** blade runner
+*** Koe no Katachi
+* HellHound
+** Notes
+*** Checkout Pedestal's stream response.
+    http://pedestal.io/reference/streaming
+
+
+** TODOs
+*** TODO Check for `start-fn` return value spec.
+*** TODO Handle the missing component name in `:workflow`
+*** TODO Create components from a function
+    Basically a dummy stop function, and a start fn to wrap the function.
+
+* PageFair
