@@ -29,6 +29,7 @@
 **** Reduce
 **** Agg
 **** Join
+*** Investigate the possiblities of having a global stat in the system
 ** Ideas
 *** Attach processing time to the value moving in the pipeline.
     So we can measure how much time it takes for each componenet to process the value
@@ -38,4 +39,12 @@
 *** TODO Create components from a function
     Basically a dummy stop function, and a start fn to wrap the function.
 
+** Stream functions
+*** filter
+*** map
+*** batch
+*** reduce
+*** agg
+*** join
+*** count
 * PageFair
