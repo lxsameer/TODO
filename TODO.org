@@ -4,6 +4,7 @@
 *** TODO https://www.ibm.com/developerworks/java/tutorials/j-nio/j-nio.html
 *** DONE JVM ThreadPool
     https://www.ibm.com/developerworks/library/j-jtp0730/index.html
+*** TODO https://www.ibm.com/developerworks/library/j-java-streams-3-brian-goetz/index.html
 ** Online Course
 *** Machine Learning
 **** http://course.fast.ai/
